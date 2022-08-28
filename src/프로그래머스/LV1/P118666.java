@@ -2,6 +2,7 @@ package 프로그래머스.LV1;
 
 import java.util.*;
 
+//성격 유형 검사
 public class P118666 {
 
     public static void main(String[] args) {
