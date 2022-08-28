@@ -1,4 +1,4 @@
-package 조건문;
+package 백준.조건문;
 
 import java.util.*;
 

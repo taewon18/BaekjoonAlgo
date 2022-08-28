@@ -1,4 +1,4 @@
-package 반복문;
+package 백준.반복문;
 
 import java.util.ArrayList;
 import java.util.List;

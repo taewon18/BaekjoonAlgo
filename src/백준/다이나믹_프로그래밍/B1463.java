@@ -1,4 +1,4 @@
-package DynamicProgramming;
+package 백준.다이나믹_프로그래밍;
 
 import java.util.Scanner;
 
